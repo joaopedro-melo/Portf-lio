@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+
+}
+
+title {
+    font-size: 30px;
+}
+
+p{
+ text-align: center;
+ font-size: 20px;
+ font-family:'Georgia';
+ color: white;
+background-image:url("minimal-coding-wallpaper-2560×1440.jpg");
+background-size: cover;
+background-position: center center;
+}
