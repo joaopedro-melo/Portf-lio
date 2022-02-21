@@ -1,18 +1,21 @@
+html {
+  background-image:url("minimal-coding-wallpaper-2560×1440.jpg");
+  background-size: auto;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
 h1 {
   text-align: center;
-
+  color: white;
+  font-size: 60px;
 }
 
-title {
-    font-size: 30px;
-}
 
 p{
- text-align: center;
+ text-align: left;
  font-size: 20px;
  font-family:'Georgia';
  color: white;
-background-image:url("minimal-coding-wallpaper-2560×1440.jpg");
-background-size: cover;
-background-position: center center;
+ text-size-adjust:20%;
 }
